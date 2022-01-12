@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877112195525",
+    "project_id": "kaarighar-9faa2",
+    "storage_bucket": "kaarighar-9faa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877112195525:android:3967098778519d57d033ac",
+        "android_client_info": {
+          "package_name": "com.kaarighar.kaarighar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877112195525-bdfg0kqk8t7mlbq5ofl90c2f8fcp2o37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_f8OXQYAaMMEKXOSmqBVVIn2V6Zvy6gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877112195525-bdfg0kqk8t7mlbq5ofl90c2f8fcp2o37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
